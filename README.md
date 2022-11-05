@@ -4,7 +4,5 @@
 <p dir="auto">한국외대 컴퓨터공학부 신찬수 교수님의 "<a href="https://www.youtube.com/playlist?list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK" rel="nofollow">자료구조 - Data Structures with Python</a>" 강의 정리입니다.</p>
 
 
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+| 연번 | 동영상 링크 | 정리 |
+| --- | ----| --- |
